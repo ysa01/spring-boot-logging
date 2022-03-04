@@ -12,7 +12,7 @@
 
     <artifactId>spring-boot-logging</artifactId>
 
-    <groupId>com.gunumuzbosgecmesin</groupId>
+    <groupId>com.nonstop</groupId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
