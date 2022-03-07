@@ -22,7 +22,7 @@ public class LogEndpoint {
             Thread.sleep(1000);
             return "API Mesaj";
         }catch (InterruptedException e){
-            log.error("",e);
+            log.error("Hata : {}",e);
 
         }
         return "";
